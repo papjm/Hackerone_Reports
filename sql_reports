@@ -38,6 +38,10 @@ https://hackerone.com/reports/179920
 https://hackerone.com/reports/648346
 https://hackerone.com/reports/489483
 https://hackerone.com/reports/761304
+https://hackerone.com/reports/273946
+
+
+
 
 Some payloads:
 ' AND SLEEP(5) AND 'wRIg' LIKE 'wRIg
